@@ -28,7 +28,7 @@ AND MORE!
 ----------------------------------------------
 # Credits:
 * [CrowPlexus](https://twitter.com/CrowPlexus) (me!):
-    * maintainer of the engine (as of version 0.3.1.1)
+    * maintainer of the engine (as of version 0.3.2)
     * she likes how the note splash looks.
 * Yoshubs:
     * made the engine,
